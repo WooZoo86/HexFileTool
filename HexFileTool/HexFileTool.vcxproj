@@ -151,11 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\afcar\2019\11yue\yuchai\YUCHAI_S19_DECRYPT\ConsoleApplication1\SRecord.cpp" />
     <ClCompile Include="HexFileTool.cpp" />
+    <ClCompile Include="SRecord.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\afcar\2019\11yue\yuchai\YUCHAI_S19_DECRYPT\ConsoleApplication1\SRecord.h" />
+    <ClInclude Include="SRecord.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

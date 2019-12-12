@@ -18,12 +18,12 @@
     <ClCompile Include="HexFileTool.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\afcar\2019\11yue\yuchai\YUCHAI_S19_DECRYPT\ConsoleApplication1\SRecord.cpp">
+    <ClCompile Include="SRecord.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\afcar\2019\11yue\yuchai\YUCHAI_S19_DECRYPT\ConsoleApplication1\SRecord.h">
+    <ClInclude Include="SRecord.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
